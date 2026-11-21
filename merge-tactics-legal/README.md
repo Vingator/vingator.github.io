@@ -33,7 +33,9 @@ Habby's and Dream Games' public privacy policies were compared for structure: da
 
 ## Publishing
 
-GitHub Pages: `main` / repository root. Keep stable links:
+The `Vingator/vingator.github.io` repository publishes `main` from its root. Maintain the legal pages in `merge-tactics-legal/`. The root `app-ads.txt` is the file AdMob checks. Keep the copy in this folder in sync when updating a seller.
+
+Public URLs:
 
 - https://vingator.github.io/merge-tactics-legal/
 - https://vingator.github.io/merge-tactics-legal/impressum.html
